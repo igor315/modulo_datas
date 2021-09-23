@@ -40,5 +40,8 @@ public class DatasEmJava {
 		
 		simpleDateFormat = new SimpleDateFormat("yyyy/dd/MM");
 		System.out.println("Objeto Date: " + simpleDateFormat.parse("1987/18/10"));
+		
+						/*---------Calendar----------*/
+		
 	}
 }
